@@ -4,10 +4,6 @@
 }
 
 
-/*body {
-    min-width: 500px;
-}*/
-
 div {
   border-radius: 5px;
 }
@@ -15,7 +11,7 @@ div {
 #header {
   height: 40px;
   width: 100%;
-  background-color: #ffcccc;
+  background-color: #ccfff4;
   position: fixed;
   z-index: 1;
 }
@@ -27,7 +23,7 @@ div {
 #footer {
   height: 50px;
   width: 100%;
-  background-color: #ffcccc;
+  background-color: #ccfff4;
   clear: both;
   position: relative;
 }
@@ -35,7 +31,7 @@ div {
 .left {
   height: 1000px;
   width: 45px;
-  background-color: #e0eeee;
+  background-color: #c3d1fa;
   float: left;
   position: fixed;
 }
@@ -43,7 +39,7 @@ div {
 .right {
   height: 1000px;
   width: 45px;
-  background-color: #e0eeee;
+  background-color: #c3d1fa;
   float: right;
   position: inherit;
 }
